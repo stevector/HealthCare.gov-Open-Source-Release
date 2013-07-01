@@ -17,7 +17,7 @@ We’re making our source code freely available on GitHub. All of our educationa
 
 2. **EVERYTHING we do will be published on GitHub:** From revising a glossary entry to updating a link in the footer, we're making all of our changes transparent and available to the public.
 
-From day one, we embraced the principles of open data, universal access, and accessibility through simplicty. We produce standards compliant code to make our content [accessible](/accessibility) to people with disabilities.
+From day one, we embraced the principles of open data, universal access, and accessibility through simplicity. We produce standards compliant code to make our content [accessible](/accessibility) to people with disabilities.
 
 ## HealthCare.gov Content API
 
